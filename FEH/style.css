@@ -22,6 +22,16 @@ h1, h2, h3{color:#7D7D7D;}
 	background: url(bricks.jpg);
 }
 
+#middle nav ul{ 
+	text-decoration: none;
+	text-align: center;
+}
+
+#middle li{
+    list-style-type: none;
+    display: inline-block;
+}
+
 
 #header nav a { 
 	text-decoration: none;
