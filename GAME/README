@@ -1,0 +1,10 @@
+A modified version of the tutorial provided by w3schools
+
+https://www.w3schools.com/graphics/game_intro.asp
+
+Improvements include
+
+1) The ability to use the WASD Keys to move along with the arrow keys to move the player around
+2) Once the game is over, there is an alert saying that the game is over instead of suddenly stopping
+3) There is a button to restart the game when the player loses
+4) There are two increases of difficulty once the player reaches a certain score(at 500 and 1000)
