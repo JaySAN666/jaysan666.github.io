@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title> Rock Paper Scissors</title>
+    <link href="style.css" rel ="stylesheet">
+    <script src="app.js" charset="utf-8"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+
+<div id = "wrapper">
+
+<div id = "op">
+<br>
+
+    <img src="logo.png " alt="rock, paper, scissors" width="300" height="100">
+
+</div> <!-- End op -->
+
+<div id = "background">
+
+<br>
+
+    <div class="row">
+        <div class="column">
+            <img src="rock.jpg" alt="rock" width="100" height="100" onclick="choice1()">
+         </div>
+        <div class="column">
+             <img src="paper.jpg" alt="paper" width="100" height="100" onclick="choice2()">
+        </div>
+        <div class="column">
+            <img src="scissors.jpg" alt="scissors" width="100" height="100" onclick="choice3()">
+        </div>
+    </div>
+
+</div> <!-- End background -->
+
+<footer>
+    <p id = "display"> </p>
+    <p id = "score"> </p>
+    <p id = "loss"> </p>
+    <p id = "draw"> </p>
+    <p id = "winrate"> </p>
+</footer>
+
+<br>
+
+</div> <!-- End wrapper -->
+</body>
+
+</html>
