@@ -1,0 +1,7 @@
+A website where you can play Rock, Paper, Scissors with using basic Javascript functions.
+
+Clicking on one of the images will send a number to the program with 1 being rock, 2 being paper, and 3 being scissors
+
+A random number generator will determine what the CPU will decide on choosing rock, paper, or scissors
+
+Uses localstorage to store the wins, losses, ties, and the number of games played.
