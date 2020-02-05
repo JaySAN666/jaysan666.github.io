@@ -4,4 +4,4 @@ Clicking on one of the images will send a number to the program with 1 being roc
 
 A random number generator will determine what the CPU will decide on choosing rock, paper, or scissors
 
-Uses localstorage to store the wins, losses, ties, and the number of games played.
+Uses sesssionstorage to store the wins, losses, ties, and the number of games played.
